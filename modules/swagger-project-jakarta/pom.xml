@@ -483,7 +483,7 @@
         <jakarta.activation-api-version>2.1.2</jakarta.activation-api-version>
         <bnd-version>6.4.0</bnd-version>
         <servlet-api-version>5.0.0</servlet-api-version>
-        <jersey2-version>3.1.5</jersey2-version>
+        <jersey2-version>2.47</jersey2-version>
         <junit-version>4.13.2</junit-version>
         <jackson-version>2.16.2</jackson-version>
         <jackson-databind-version>2.16.2</jackson-databind-version>
